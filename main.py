@@ -7,3 +7,7 @@ def show_menu():
 
 if __name__ == "__main__":
     show_menu()
+
+name = input('Як тебе звати?')
+print(f"Привіт {name}")
+
